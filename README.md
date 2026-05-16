@@ -7,7 +7,7 @@
 Antes de ejecutar el código, asegúrate de tener instalado lo siguiente:
 
 * **Python 3.14***
-* **Gestor de paquetes pip** (incluido por defecto con Python)
+  
 
 ## 🚀 Cómo Ejecutar el Código
 
